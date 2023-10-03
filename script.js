@@ -126,7 +126,7 @@ searchterm.addEventListener('keyup',e=>{
 
 
 
-
+//
 
 // btn.addEventListener('click',geo);
 
